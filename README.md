@@ -9,10 +9,13 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-kutomkinv%40list.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kutomkinv@list.ru)
+<<<<<<< HEAD
 [![Telegram](https://img.shields.io/badge/Telegram-Vladimir__TBizz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladimir_TBizz)
 [![Phone](https://img.shields.io/badge/Phone-%2B7%20(901)%20592--04--06-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79015920406)
 [![Portfolio](https://img.shields.io/badge/Site-a13bureau.ru-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://a13bureau.ru/)
 [![GitHub](https://img.shields.io/badge/GitHub-5eeee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5eeee)
+=======
+>>>>>>> cb461b12550e6c32bd646deefc455593e640645b
 
 </div>
 
