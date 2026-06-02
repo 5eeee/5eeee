@@ -7,7 +7,6 @@
 **Москва, Россия** · Открыт к стажировке и работе (junior / middle−)
 
 [![Email](https://img.shields.io/badge/Email-kutomkinv%40list.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kutomkinv@list.ru)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a13bureau.ru-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://a13bureau.ru/)
 
 </div>
 
