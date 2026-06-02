@@ -21,8 +21,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" alt="Express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/>
@@ -36,22 +37,48 @@
 
 <div align="center">
 
-### Портфолио · 12 проектов
+### Портфолио · 12 проектов · ~220 000 строк кода
 
-| | Проект | Технологии | Ссылка |
-|:-:|---|---|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> | **A13 Bureau** — CMS | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [site](https://a13bureau.ru/) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> | **Agile Business** — IT-консалтинг | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square) | [site](https://agile-business-pro.com/) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24"/> | **GARPIUM** — платформа студии | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | [site](https://garpium.com/) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> | **Boost Marine** — сайт + админка | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bot](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | [site](https://boostmarine.ru/) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> | **PETRA Car Import** — авто + CRM | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | [repo](https://github.com/5eeee/petra-car-import) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> | **Revolution Print** — типография | ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square) | [repo](https://github.com/5eeee/revolution-print) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> | **Earth Zoom In** — Telegram + AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [repo](https://github.com/5eeee/higgsfield-telegram-mvp) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> | **NOW KZ** — лендинг | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [repo](https://github.com/5eeee/now-kz-landing) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> | **Shansony** — B2B лендинг | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) | [repo](https://github.com/5eeee/shansony) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="24"/> | **Agile Telemost** — видеоконференции | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![WebRTC](https://img.shields.io/badge/LiveKit-FF0000?style=flat-square) | [repo](https://github.com/5eeee/agile-telemost) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> | **Agile Business Platform** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | [repo](https://github.com/5eeee/agile-business-platform) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24"/> | **GARPIUM LMS** — обучение | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [repo](https://github.com/5eeee/garpium-lms) |
+| | Проект | Описание | Стек | LOC | |
+|:-:|---|---|---|---:|:-:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" alt=""/> | **A13 Bureau** | Корпоративный сайт бюро с CMS: услуги, проекты, калькулятор, блог, админка | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | **16 303** | [site](https://a13bureau.ru/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" alt=""/> | **Agile Business** | IT-консалтинг: PWA, 5 языков, CMS, личный кабинет, SEO | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | **23 702** | [site](https://agile-business-pro.com/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22" alt=""/> | **GARPIUM** | Маркетинговый сайт и CRM/CMS студии: лиды, кейсы, клиентский кабинет | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | **23 871** | [site](https://garpium.com/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" alt=""/> | **Boost Marine** | Сайт и PHP-админка: услуги, блог, SEO, Telegram-бот, miniapp | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | **27 132** | [site](https://boostmarine.ru/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" alt=""/> | **PETRA Car Import** | Лендинг импорта авто: 3D-модели, mini-CRM, JWT-админка | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | **8 146** | [repo](https://github.com/5eeee/petra-car-import) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" alt=""/> | **Revolution Print** | B2B-платформа типографии: заказы, документы, производство, чат | ![Express](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-F59E0B?style=flat-square&logo=jsonwebtokens&logoColor=white) | **8 841** | [repo](https://github.com/5eeee/revolution-print) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" alt=""/> | **Earth Zoom In** | Telegram-бот: фото → видео «космос → лицо» через Higgsfield AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![aiogram](https://img.shields.io/badge/aiogram-009688?style=flat-square&logo=telegram&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | **5 592** | [repo](https://github.com/5eeee/higgsfield-telegram-mvp) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" alt=""/> | **NOW KZ** | Лендинг БАДов из США: форма заявки, Telegram, анимации | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | **2 463** | [repo](https://github.com/5eeee/now-kz-landing) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" alt=""/> | **Shansony** | B2B-лендинг поставок из Китая: админка, SEO, Schema.org | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Express](https://img.shields.io/badge/Express-555?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | **4 412** | [repo](https://github.com/5eeee/shansony) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="22" alt=""/> | **Agile Telemost** | MVP видеоконференций: комнаты, отделы, JWT, LiveKit SFU | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-FF0000?style=flat-square&logo=webrtc&logoColor=white) | **2 543** | [repo](https://github.com/5eeee/agile-telemost) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" alt=""/> | **Agile Business Platform** | Enterprise: проекты, обучение, геймификация, чат, KPI | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | **74 293** | [repo](https://github.com/5eeee/agile-business-platform) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="22" alt=""/> | **GARPIUM LMS** | Multi-tenant SaaS обучения: курсы, wiki, сертификаты, RBAC | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | **22 939** | [repo](https://github.com/5eeee/garpium-lms) |
+
+<sub>LOC — строки исходного кода (без vendor, node_modules, бинарников) · всего <strong>220 237</strong> строк в 12 проектах</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### Статистика кода
+
+| Проект | Строк | Файлов |
+|---|--:|--:|
+| Agile Business Platform | 74 293 | 375 |
+| Boost Marine | 27 132 | 182 |
+| GARPIUM Platform | 23 871 | 151 |
+| Agile Business Site | 23 702 | 54 |
+| GARPIUM LMS | 22 939 | 236 |
+| A13 Bureau | 16 303 | 90 |
+| Revolution Print | 8 841 | 62 |
+| PETRA Car Import | 8 146 | 23 |
+| Earth Zoom In | 5 592 | 45 |
+| Shansony | 4 412 | 14 |
+| Agile Telemost | 2 543 | 11 |
+| NOW KZ | 2 463 | 11 |
+| **Итого** | **220 237** | **1 254** |
 
 </div>
 
@@ -61,20 +88,33 @@
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=5eeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=14b8a6&text_color=c9d1d9" width="48%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5eeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=c9d1d9" width="48%" alt="langs"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5eeee&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5eeee&theme=github"/>
+  <img alt="GitHub Stats" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=5eeee&theme=github_dark"/>
+</picture>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=5eeee&theme=tokyonight&hide_border=true&background=0d1117&ring=0d9488&fire=14b8a6&currStreakLabel=0d9488" width="72%" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=5eeee&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0d9488&line=14b8a6&point=ffffff" width="100%" alt="graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5eeee&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5eeee&theme=github"/>
+  <img alt="Top Languages" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5eeee&theme=github_dark"/>
+</picture>
 
 <br/>
 
-![views](https://komarev.com/ghpvc/?username=5eeee&color=0d9488&style=for-the-badge&label=VIEWS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=5eeee&hide_border=true&background=0D1117&stroke=30363D&ring=0D9488&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C9D1D9&currStreakNum=14B8A6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=5eeee&hide_border=true&background=FFFFFF&stroke=E1E4E8&ring=0F766E&fire=14B8A6&currStreakLabel=0F766E&sideLabels=24292F&dates=57606A&sideNums=24292F&currStreakNum=0F766E"/>
+  <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com/?user=5eeee&hide_border=true&background=0D1117&ring=0D9488&fire=14B8A6&currStreakLabel=14B8A6"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=5eeee&label=Profile+views&color=14b8a6&style=flat-square&labelColor=161b22"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=5eeee&label=Profile+views&color=0d9488&style=flat-square&labelColor=f6f8fa"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=5eeee&label=Profile+views&color=14b8a6&style=flat-square&labelColor=161b22"/>
+</picture>
 
 <br/><br/>
 
