@@ -9,7 +9,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-kutomkinv%40list.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kutomkinv@list.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@Vladimir__TBizz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladimir_TBizz)
+[![Telegram](https://img.shields.io/badge/Telegram-Vladimir__TBizz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vladimir_TBizz)
 [![Phone](https://img.shields.io/badge/Phone-%2B7%20(901)%20592--04--06-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79015920406)
 [![Portfolio](https://img.shields.io/badge/Site-a13bureau.ru-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://a13bureau.ru/)
 [![GitHub](https://img.shields.io/badge/GitHub-5eeee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5eeee)
@@ -77,6 +77,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=80&section=footer&fontSize=14&fontColor=ffffff&text=kutomkinv%40list.ru%20%C2%B7%20%40Vladimir_TBizz%20%C2%B7%20%2B7%20(901)%20592-04-06" width="100%"/>
+**Связаться:** [kutomkinv@list.ru](mailto:kutomkinv@list.ru) · [Telegram @Vladimir_TBizz](https://t.me/Vladimir_TBizz) · +7 (901) 592-04-06
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f766e&height=80&section=footer&fontSize=14&fontColor=ffffff&text=kutomkinv%40list.ru%20%C2%B7%20t.me%2FVladimir_TBizz" width="100%"/>
 
 </div>
